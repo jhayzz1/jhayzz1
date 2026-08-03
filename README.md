@@ -5,7 +5,7 @@
 ### 🎓 About Me
 - 🎮 Aspiring **Game Developer** and dedicated **BSIT student**
 - 📍 Passionate about creating interactive and engaging game experiences
-- 📚 Actively learning **Python**, **C#**, **Unity**, and the fundamentals of **Game Development**
+- 📚 Actively learning **Python**, **C#**, **Unity**, **Lua Script**, **3D Modeling** and the fundamentals of **Game Development**
 - 💡 Committed to continuous improvement and building real-world projects to enhance my skills
 - 🌐 Strong interest in **Game Design**, **Programming**, and **Creative Technologies**
 
