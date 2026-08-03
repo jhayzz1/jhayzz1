@@ -12,7 +12,7 @@
 ---
 
 ### 🧠 Skills & Technologies
-- **Languages**: Python, C#, SQL  
+- **Languages**: Python, C#, SQL, Lua Script  
 - **Game Engines/Frameworks**: Unity, Godot *(exploring)*  
 - **Tools**: Git, GitHub, Visual Studio, Unity Hub  
 - **Other**: Object-Oriented Programming, Version Control, Problem-Solving, Debugging
