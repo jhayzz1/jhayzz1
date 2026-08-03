@@ -29,7 +29,7 @@
 
 ### 📫 Get in Touch
 - ✉️ Email: **quincykizuna22@yourdomain.com** **  
-- 💼 LinkedIn: *Coming soon!*
+- 💼 LinkedIn: https://www.linkedin.com/in/eric-john-feliciano-380a84384
 
 ---
 
